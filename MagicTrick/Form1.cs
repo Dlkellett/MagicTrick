@@ -10,6 +10,7 @@ using System.Windows.Forms;
 /// <summary>
 /// Will take your birthmonth and form it into a different number that will be predicted 
 /// </summary>
+/// Some change in the code 
 namespace MagicTrick
 {
     public partial class Form1 : Form
